@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ProjektyC#2020\WSB Programowanie zaawansowane\Zadanie wstępne - rejestrOsobowy\RejestrOsobowy\RejestrOsobowy\bin\Debug\netcoreapp3.1\RejestrOsobowy.exe
+C:\Users\Administrator\source\repos\ProjektyC#2020\WSB Programowanie zaawansowane\Zadanie wstępne - rejestrOsobowy\RejestrOsobowy\RejestrOsobowy\bin\Debug\netcoreapp3.1\RejestrOsobowy.deps.json
+C:\Users\Administrator\source\repos\ProjektyC#2020\WSB Programowanie zaawansowane\Zadanie wstępne - rejestrOsobowy\RejestrOsobowy\RejestrOsobowy\bin\Debug\netcoreapp3.1\RejestrOsobowy.runtimeconfig.json
+C:\Users\Administrator\source\repos\ProjektyC#2020\WSB Programowanie zaawansowane\Zadanie wstępne - rejestrOsobowy\RejestrOsobowy\RejestrOsobowy\bin\Debug\netcoreapp3.1\RejestrOsobowy.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ProjektyC#2020\WSB Programowanie zaawansowane\Zadanie wstępne - rejestrOsobowy\RejestrOsobowy\RejestrOsobowy\bin\Debug\netcoreapp3.1\RejestrOsobowy.dll
+C:\Users\Administrator\source\repos\ProjektyC#2020\WSB Programowanie zaawansowane\Zadanie wstępne - rejestrOsobowy\RejestrOsobowy\RejestrOsobowy\bin\Debug\netcoreapp3.1\RejestrOsobowy.pdb
+C:\Users\Administrator\source\repos\ProjektyC#2020\WSB Programowanie zaawansowane\Zadanie wstępne - rejestrOsobowy\RejestrOsobowy\RejestrOsobowy\obj\Debug\netcoreapp3.1\RejestrOsobowy.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ProjektyC#2020\WSB Programowanie zaawansowane\Zadanie wstępne - rejestrOsobowy\RejestrOsobowy\RejestrOsobowy\obj\Debug\netcoreapp3.1\RejestrOsobowy.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ProjektyC#2020\WSB Programowanie zaawansowane\Zadanie wstępne - rejestrOsobowy\RejestrOsobowy\RejestrOsobowy\obj\Debug\netcoreapp3.1\RejestrOsobowy.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ProjektyC#2020\WSB Programowanie zaawansowane\Zadanie wstępne - rejestrOsobowy\RejestrOsobowy\RejestrOsobowy\obj\Debug\netcoreapp3.1\RejestrOsobowy.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ProjektyC#2020\WSB Programowanie zaawansowane\Zadanie wstępne - rejestrOsobowy\RejestrOsobowy\RejestrOsobowy\obj\Debug\netcoreapp3.1\RejestrOsobowy.dll
+C:\Users\Administrator\source\repos\ProjektyC#2020\WSB Programowanie zaawansowane\Zadanie wstępne - rejestrOsobowy\RejestrOsobowy\RejestrOsobowy\obj\Debug\netcoreapp3.1\RejestrOsobowy.pdb
+C:\Users\Administrator\source\repos\ProjektyC#2020\WSB Programowanie zaawansowane\Zadanie wstępne - rejestrOsobowy\RejestrOsobowy\RejestrOsobowy\obj\Debug\netcoreapp3.1\RejestrOsobowy.genruntimeconfig.cache
